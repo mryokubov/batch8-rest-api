@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class OrderResponsePayload {
+public class OrderResponse {
 
     private String id;
     private int bookId;

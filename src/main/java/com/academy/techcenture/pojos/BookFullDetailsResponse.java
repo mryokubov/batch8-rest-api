@@ -7,7 +7,7 @@ import lombok.*;
 @NoArgsConstructor
 @Data
 @ToString
-public class Book {
+public class BookFullDetailsResponse {
 
     private int id;
     private String name;
